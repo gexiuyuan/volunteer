@@ -1,0 +1,26 @@
+body{font-size:12px}
+.container{position:relative;width:600px;margin:0 auto}
+.header{margin:50px 0 40px;border-bottom:1px solid #e5e5e5;padding-bottom:30px}
+.header .header-side{float:right;margin-top:12px}
+.header .header-title{position:relative;top:10px;font-size:16px;color:#333;padding-left:10px;margin: 0 100px 0 75px;}
+.main{border-bottom:1px solid #e5e5e5;padding-bottom:40px}
+.main-login .form-horizontal{float:left}
+input[type=text],input[type=password],input[type=number]{width:219px;border-radius:2px;padding:8px 10px}
+.main-login .form-horizontal .control-label{width:80px;padding-top:8px}
+.main-login .form-horizontal .controls{margin-left:80px}
+.main .auto-login{font-size:12px;font-weight:normal;color:#666;display:inline-block}
+.main .auto-login input[type="checkbox"]{float:left;margin-right:5px}
+.main .lost-pw{float:right;color:#666;display:none}
+.btn-large{font-size:16px;width:240px;height:40px;line-height:17px;border-radius:2px}
+.login-btn{font-size:16px;width:240px;height:40px;line-height:17px;border-radius:2px}
+.side-wrap{width:200px;margin-left:390px;text-align:center;background-color:#fafafa;padding:20px 0}
+.side-wrap .login-download-wsc-icon{width:105px;height:105px;margin:0 auto;}
+.side-wrap .side-desc{margin-top:20px;margin-bottom:10px;font-size:14px;color:#666}
+.side-wrap .side-info{margin:0 0 10px;font-size:12px;line-height:16px;color:#666}
+.footer{text-align:center;color:#999}
+.footer .copyright {padding:50px 0 20px;*padding:70px 0 20px;text-align:center;font-size:12px;background: url('/img/fywc_logo.png') center 20px no-repeat;background-size: 100px 30px;}
+.footer .copyright a{color:#999}
+.alert{margin-top:-20px}
+.required{font-size:16px;color:#d00;margin-right:2px;vertical-align:middle}
+.form-horizontal input+.help-block{margin-top:0}
+label{margin-bottom:0}
